@@ -39,7 +39,7 @@ public class Init extends Application {
 
         disableWarning();
 
-        primaryStage.setTitle("Гомуку");
+        primaryStage.setTitle("Гомоку");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
     }
